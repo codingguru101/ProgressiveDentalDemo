@@ -1,4 +1,5 @@
 # ProgressiveDentalDemo
 
 
-Simple Mock Up Assesment done for progressive dental using wordpress and elementor on the front end.
+Simple Mock Up Assesment done for Progressive Dental Marketing Company in
+Clearwater FL, using Wordpress and Elementor on the front end.
